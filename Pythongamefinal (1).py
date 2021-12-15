@@ -1,5 +1,5 @@
 # Guessing number project on python
-# Balvinder Singh and Sehajpreet Kaur
+
 
 # 1. random number generator library function
 import random
